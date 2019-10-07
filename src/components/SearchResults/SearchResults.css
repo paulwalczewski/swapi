@@ -1,0 +1,17 @@
+.searchResults {
+  margin: 0 auto 16px;
+  text-align: left;
+}
+
+.searchResults td, .searchResults th {
+  padding: 12px;
+  min-width: 140px;
+}
+
+.searchResults tr {
+  border: 1px solid #ddd;
+}
+
+.searchResults tr:nth-child(even) {
+  background: #f2f2f2;
+}
